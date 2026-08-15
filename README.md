@@ -90,8 +90,7 @@ Axios
 | Project | Technologies |
 |--------|--------------|
 | 📄 Resume Builder | React JS, Spring Boot, MySQL, JWT |
-| 🏨 Hotel Booking System | React JS, Spring Boot, MySQL |
-| 👨‍💼 Employee Management System | React JS, Spring Boot, MySQL |
+
 
 ---
 
