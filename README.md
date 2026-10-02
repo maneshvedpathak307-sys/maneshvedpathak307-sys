@@ -147,12 +147,80 @@ The system provides separate **Admin** and **Employee** portals for managing emp
 
 ---
 
+## 🏥 Hospital Management System
+
+A full-stack Hospital Management System built using React JS, Spring Boot, Spring Security, JWT and MySQL.
+
+The system provides separate **Admin, Doctor and Patient** modules for managing hospital operations, appointments, prescriptions and patient records.
+
+### ✨ Admin Features
+
+- 📊 Admin Dashboard
+- 👨‍⚕️ Doctor Management
+- 🏥 Department Management
+- 👤 Patient Management
+- 📅 Appointment Management
+- 💊 Prescription Management
+- 📈 Reports and Analytics
+- 🔐 Secure Admin Authentication
+
+### 👨‍⚕️ Doctor Features
+
+- 📊 Doctor Dashboard
+- 📅 View and Manage Appointments
+- ✅ Approve Appointments
+- ❌ Reject Appointments
+- ✔️ Complete Appointments
+- 💊 Create and Manage Prescriptions
+- 👤 View Patient Information
+- 📈 Doctor Reports
+
+### 👤 Patient Features
+
+- 📝 Patient Registration
+- 🔐 Patient Login
+- 📊 Patient Dashboard
+- 📅 Book Appointments
+- 👀 View Appointments
+- 💊 View Prescriptions
+- 👤 View Patient Profile
+- 📋 View Appointment Details
+
+### 🔐 Security
+
+- 🔐 JWT Authentication
+- 🛡️ Spring Security
+- 👥 Role-Based Access Control
+- 🔑 Token-Based API Authorization
+- 🔒 Protected REST APIs
+- 🔐 BCrypt Password Encryption
+
+### 🛠️ Technology
+
+- React JS
+- Spring Boot
+- Java
+- Spring Security
+- JWT
+- Spring Data JPA
+- Hibernate
+- MySQL
+- Axios
+- React Router
+- REST API
+- Maven
+
+🔗 **[View Hospital Management System Project](https://github.com/maneshvedpathak307-sys/Hospital-Management-System)**
+
+---
+
 # 📌 GitHub Projects
 
 | Project | Technologies |
 |---|---|
 | 📄 [Resume Builder](https://github.com/maneshvedpathak307-sys/resume-builder) | React JS, Spring Boot, MySQL, JWT |
 | 👨‍💼 [Employee Management System](https://github.com/maneshvedpathak307-sys/Employee-Management-System) | React JS, Spring Boot, Spring Security, MySQL, JWT |
+| 🏥 [Hospital Management System](https://github.com/maneshvedpathak307-sys/Hospital-Management-System) | React JS, Spring Boot, Spring Security, MySQL, JWT |
 
 ---
 
