@@ -214,6 +214,69 @@ The system provides separate **Admin, Doctor and Patient** modules for managing 
 
 ---
 
+## 🐔 FreshNest – Chicken Delivery System
+
+A modern full-stack Chicken Delivery Web Application built using **React JS, Java 21, Spring Boot, Spring Security, JWT and MySQL**.
+
+FreshNest allows customers to browse chicken products, manage shopping carts, place orders, manage delivery addresses, view order history, submit product reviews and request returns. Administrators can manage products, process orders, handle return requests and generate downloadable PDF reports.
+
+### ✨ Customer Features
+
+- 🛍️ Browse Chicken Products
+- 🔎 View Product Information
+- 🛒 Add Products to Cart
+- ➕ Update Cart Quantities
+- 💳 Checkout and Place Orders
+- 📦 View Order History
+- 📋 View Order Details
+- 📍 Manage Delivery Addresses
+- 👤 Manage Customer Profile
+- ⭐ Submit Product Reviews
+- 🔄 Submit Return Requests
+- 📊 Track Return Request Status
+
+### 👨‍💼 Admin Features
+
+- 📊 Admin Dashboard
+- 🛍️ Product Management
+- ➕ Add and Edit Products
+- 📦 View and Manage Customer Orders
+- 🔄 Update Order Status
+- ↩️ Manage Return Requests
+- 📈 View Reports and Summary Information
+- 📄 Generate and Download PDF Reports
+
+### 🔐 Security
+
+- 🔑 User Registration and Login
+- 🔐 JWT Authentication
+- 🛡️ Spring Security
+- 👥 Role-Based Access Control
+- 🔒 Protected Frontend Routes
+- 🔑 Token-Based API Authorization
+- 🔐 Password Hashing
+- 🛡️ Secure Access to Protected Resources
+
+### 🛠️ Technology
+
+- React JS
+- Java 21
+- Spring Boot 3.5.4
+- Spring Security
+- JWT Authentication
+- Spring Data JPA
+- Hibernate
+- MySQL 8
+- Axios
+- React Router
+- REST APIs
+- Maven
+- Postman
+
+🔗 **[View FreshNest – Chicken Delivery System Project](https://github.com/maneshvedpathak307-sys/Chicken-Delivery-System)**
+
+---
+
 # 📌 GitHub Projects
 
 | Project | Technologies |
@@ -221,6 +284,7 @@ The system provides separate **Admin, Doctor and Patient** modules for managing 
 | 📄 [Resume Builder](https://github.com/maneshvedpathak307-sys/resume-builder) | React JS, Spring Boot, MySQL, JWT |
 | 👨‍💼 [Employee Management System](https://github.com/maneshvedpathak307-sys/Employee-Management-System) | React JS, Spring Boot, Spring Security, MySQL, JWT |
 | 🏥 [Hospital Management System](https://github.com/maneshvedpathak307-sys/Hospital-Management-System) | React JS, Spring Boot, Spring Security, MySQL, JWT |
+| 🐔 [FreshNest – Chicken Delivery System](https://github.com/maneshvedpathak307-sys/Chicken-Delivery-System) | React JS, Java 21, Spring Boot, Spring Security, MySQL, JWT |
 
 ---
 
