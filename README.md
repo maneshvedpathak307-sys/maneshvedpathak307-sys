@@ -1,12 +1,12 @@
-👋 Hi, I'm Manesh Vedpathak
+# 👋 Hi, I'm Manesh Vedpathak
 
-💻 Full Stack Java Developer
+### 💻 Full Stack Java Developer
 
 I am a passionate developer focused on building modern, scalable and user-friendly web applications using Java, Spring Boot, React JS and MySQL.
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 💻 Full Stack Java Developer
 - 🌱 Currently improving my Spring Boot and React JS skills
@@ -16,42 +16,48 @@ I am a passionate developer focused on building modern, scalable and user-friend
 - 📄 Built a Full Stack Resume Builder
 - 👨‍💼 Built a Full Stack Employee Management System
 - 🎓 Developed ScholarConnect – PG Scholarship Management Portal
+- 🏥 Developed a Full Stack Hospital Management System
+- 🐔 Developed FreshNest – Chicken Delivery System
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Backend
+### Backend
 
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"Spring Boot" (https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-"Spring Security" (https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-"JWT" (https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-Frontend
+### Frontend
 
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
 
-Database
+### Database
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Tools
+### Tools
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
-⭐ Featured Projects
+# ⭐ Featured Projects
 
-🎓 ScholarConnect – PG Scholarship Management Portal
+## 🎓 ScholarConnect – PG Scholarship Management Portal
 
 A modern full-stack PG Scholarship Management Portal built using React JS, Java 21, Spring Boot 3.5.7, Spring Security, JWT and MySQL.
 
@@ -59,7 +65,7 @@ ScholarConnect helps students explore postgraduate scholarship opportunities, ch
 
 The application provides separate Admin and Student portals with secure JWT-based authentication and role-based access control.
 
-✨ Admin Features
+### ✨ Admin Features
 
 - 📊 Admin Dashboard and Application Statistics
 - 📄 Scholarship Application Management
@@ -76,7 +82,7 @@ The application provides separate Admin and Student portals with secure JWT-base
 - 📄 Download Scholarship Report PDFs
 - 🔄 Activate and Deactivate Scholarships
 
-👨‍🎓 Student Features
+### 👨‍🎓 Student Features
 
 - 📝 Student Registration and Login
 - 📊 Student Dashboard
@@ -92,7 +98,7 @@ The application provides separate Admin and Student portals with secure JWT-base
 - 🔔 Application Status Notifications
 - 👤 Student Profile Management
 
-🔐 Authentication and Security
+### 🔐 Authentication and Security
 
 - 🔐 JWT Authentication
 - 🛡️ Spring Security
@@ -106,7 +112,7 @@ The application provides separate Admin and Student portals with secure JWT-base
 - 📁 Document Upload Validation
 - 🛡️ Protected Student and Admin Operations
 
-📄 PDF Generation
+### 📄 PDF Generation
 
 - Student Scholarship Application PDF
 - Admin Scholarship Report PDF
@@ -115,7 +121,7 @@ The application provides separate Admin and Student portals with secure JWT-base
 - Education and Family Information
 - Application Statistics and Details
 
-🛠️ Technology
+### 🛠️ Technology
 
 - React JS
 - Java 21
@@ -133,15 +139,15 @@ The application provides separate Admin and Student portals with secure JWT-base
 - Maven
 - Postman
 
-🔗 "View ScholarConnect – PG Scholarship Management Portal" (https://github.com/maneshvedpathak307-sys/ScholarConnect)
+🔗 **[View ScholarConnect – PG Scholarship Management Portal](https://github.com/maneshvedpathak307-sys/ScholarConnect)**
 
 ---
 
-📄 Resume Builder
+## 📄 Resume Builder
 
 A modern full-stack Resume Builder application built using React JS, Spring Boot and MySQL.
 
-✨ Features
+### ✨ Features
 
 - 🔐 User Registration and Login
 - 🔑 JWT Authentication
@@ -158,7 +164,7 @@ A modern full-stack Resume Builder application built using React JS, Spring Boot
 - 👁️ Resume Preview
 - 📥 PDF Resume Download
 
-🛠️ Technology
+### 🛠️ Technology
 
 - React JS
 - Spring Boot
@@ -170,17 +176,17 @@ A modern full-stack Resume Builder application built using React JS, Spring Boot
 - Axios
 - React Router
 
-🔗 "View Resume Builder Project" (https://github.com/maneshvedpathak307-sys/resume-builder)
+🔗 **[View Resume Builder Project](https://github.com/maneshvedpathak307-sys/resume-builder)**
 
 ---
 
-👨‍💼 Employee Management System
+## 👨‍💼 Employee Management System
 
 A modern full-stack Employee Management System built using React JS, Spring Boot, Spring Security, JWT and MySQL.
 
 The system provides separate Admin and Employee portals for managing employees and organization-related activities.
 
-✨ Admin Features
+### ✨ Admin Features
 
 - 📊 Admin Dashboard
 - 👥 Employee Management
@@ -195,7 +201,7 @@ The system provides separate Admin and Employee portals for managing employees a
 - 🖼️ Employee Photo Upload and Crop
 - 🔐 Secure Admin Authentication
 
-👤 Employee Features
+### 👤 Employee Features
 
 - 📊 Employee Dashboard
 - 👤 Employee Profile
@@ -207,7 +213,7 @@ The system provides separate Admin and Employee portals for managing employees a
 - 📅 Leave Balance
 - 👀 View Employee Information
 
-🔐 Security
+### 🔐 Security
 
 - 🔐 JWT Authentication
 - 🛡️ Spring Security
@@ -215,7 +221,7 @@ The system provides separate Admin and Employee portals for managing employees a
 - 🔑 Token-Based API Authorization
 - 🔒 Protected REST APIs
 
-🛠️ Technology
+### 🛠️ Technology
 
 - React JS
 - Spring Boot
@@ -230,17 +236,17 @@ The system provides separate Admin and Employee portals for managing employees a
 - Bootstrap
 - REST API
 
-🔗 "View Employee Management System Project" (https://github.com/maneshvedpathak307-sys/Employee-Management-System)
+🔗 **[View Employee Management System Project](https://github.com/maneshvedpathak307-sys/Employee-Management-System)**
 
 ---
 
-🏥 Hospital Management System
+## 🏥 Hospital Management System
 
 A full-stack Hospital Management System built using React JS, Spring Boot, Spring Security, JWT and MySQL.
 
 The system provides separate Admin, Doctor and Patient modules for managing hospital operations, appointments, prescriptions and patient records.
 
-✨ Admin Features
+### ✨ Admin Features
 
 - 📊 Admin Dashboard
 - 👨‍⚕️ Doctor Management
@@ -251,7 +257,7 @@ The system provides separate Admin, Doctor and Patient modules for managing hosp
 - 📈 Reports and Analytics
 - 🔐 Secure Admin Authentication
 
-👨‍⚕️ Doctor Features
+### 👨‍⚕️ Doctor Features
 
 - 📊 Doctor Dashboard
 - 📅 View and Manage Appointments
@@ -262,7 +268,7 @@ The system provides separate Admin, Doctor and Patient modules for managing hosp
 - 👤 View Patient Information
 - 📈 Doctor Reports
 
-👤 Patient Features
+### 👤 Patient Features
 
 - 📝 Patient Registration
 - 🔐 Patient Login
@@ -273,7 +279,7 @@ The system provides separate Admin, Doctor and Patient modules for managing hosp
 - 👤 View Patient Profile
 - 📋 View Appointment Details
 
-🔐 Security
+### 🔐 Security
 
 - 🔐 JWT Authentication
 - 🛡️ Spring Security
@@ -282,7 +288,7 @@ The system provides separate Admin, Doctor and Patient modules for managing hosp
 - 🔒 Protected REST APIs
 - 🔐 BCrypt Password Encryption
 
-🛠️ Technology
+### 🛠️ Technology
 
 - React JS
 - Spring Boot
@@ -297,17 +303,17 @@ The system provides separate Admin, Doctor and Patient modules for managing hosp
 - REST API
 - Maven
 
-🔗 "View Hospital Management System Project" (https://github.com/maneshvedpathak307-sys/Hospital-Management-System)
+🔗 **[View Hospital Management System Project](https://github.com/maneshvedpathak307-sys/Hospital-Management-System)**
 
 ---
 
-🐔 FreshNest – Chicken Delivery System
+## 🐔 FreshNest – Chicken Delivery System
 
 A modern full-stack Chicken Delivery Web Application built using React JS, Java 21, Spring Boot, Spring Security, JWT and MySQL.
 
 FreshNest allows customers to browse chicken products, manage shopping carts, place orders, manage delivery addresses, view order history, submit product reviews and request returns. Administrators can manage products, process orders, handle return requests and generate downloadable PDF reports.
 
-✨ Customer Features
+### ✨ Customer Features
 
 - 🛍️ Browse Chicken Products
 - 🔎 View Product Information
@@ -322,7 +328,7 @@ FreshNest allows customers to browse chicken products, manage shopping carts, pl
 - 🔄 Submit Return Requests
 - 📊 Track Return Request Status
 
-👨‍💼 Admin Features
+### 👨‍💼 Admin Features
 
 - 📊 Admin Dashboard
 - 🛍️ Product Management
@@ -333,7 +339,7 @@ FreshNest allows customers to browse chicken products, manage shopping carts, pl
 - 📈 View Reports and Summary Information
 - 📄 Generate and Download PDF Reports
 
-🔐 Security
+### 🔐 Security
 
 - 🔑 User Registration and Login
 - 🔐 JWT Authentication
@@ -344,7 +350,7 @@ FreshNest allows customers to browse chicken products, manage shopping carts, pl
 - 🔐 Password Hashing
 - 🛡️ Secure Access to Protected Resources
 
-🛠️ Technology
+### 🛠️ Technology
 
 - React JS
 - Java 21
@@ -360,30 +366,31 @@ FreshNest allows customers to browse chicken products, manage shopping carts, pl
 - Maven
 - Postman
 
-🔗 "View FreshNest – Chicken Delivery System Project" (https://github.com/maneshvedpathak307-sys/Chicken-Delivery-System)
+🔗 **[View FreshNest – Chicken Delivery System Project](https://github.com/maneshvedpathak307-sys/Chicken-Delivery-System)**
 
 ---
 
-📌 GitHub Projects
+# 📌 GitHub Projects
 
-Project| Technologies
-🎓 "ScholarConnect – PG Scholarship Management Portal" (https://github.com/maneshvedpathak307-sys/ScholarConnect)| React JS, Java 21, Spring Boot, Spring Security, MySQL, JWT, OpenPDF
-📄 "Resume Builder" (https://github.com/maneshvedpathak307-sys/resume-builder)| React JS, Spring Boot, MySQL, JWT
-👨‍💼 "Employee Management System" (https://github.com/maneshvedpathak307-sys/Employee-Management-System)| React JS, Spring Boot, Spring Security, MySQL, JWT
-🏥 "Hospital Management System" (https://github.com/maneshvedpathak307-sys/Hospital-Management-System)| React JS, Spring Boot, Spring Security, MySQL, JWT
-🐔 "FreshNest – Chicken Delivery System" (https://github.com/maneshvedpathak307-sys/Chicken-Delivery-System)| React JS, Java 21, Spring Boot, Spring Security, MySQL, JWT
-
----
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=maneshvedpathak307-sys&show_icons=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=maneshvedpathak307-sys&layout=compact&theme=default)
+| Project | Technologies |
+|---|---|
+| 🎓 [ScholarConnect – PG Scholarship Management Portal](https://github.com/maneshvedpathak307-sys/ScholarConnect) | React JS, Java 21, Spring Boot, Spring Security, MySQL, JWT, OpenPDF |
+| 📄 [Resume Builder](https://github.com/maneshvedpathak307-sys/resume-builder) | React JS, Spring Boot, MySQL, JWT |
+| 👨‍💼 [Employee Management System](https://github.com/maneshvedpathak307-sys/Employee-Management-System) | React JS, Spring Boot, Spring Security, MySQL, JWT |
+| 🏥 [Hospital Management System](https://github.com/maneshvedpathak307-sys/Hospital-Management-System) | React JS, Spring Boot, Spring Security, MySQL, JWT |
+| 🐔 [FreshNest – Chicken Delivery System](https://github.com/maneshvedpathak307-sys/Chicken-Delivery-System) | React JS, Java 21, Spring Boot, Spring Security, MySQL, JWT |
 
 ---
 
-🎯 Current Goals
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maneshvedpathak307-sys&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maneshvedpathak307-sys&layout=compact&theme=default)
+
+---
+
+## 🎯 Current Goals
 
 - 🚀 Improve advanced Spring Boot development
 - 🏗️ Build production-ready full-stack applications
@@ -396,12 +403,12 @@ Project| Technologies
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-GitHub
+### GitHub
 
-🔗 "github.com/maneshvedpathak307-sys" (https://github.com/maneshvedpathak307-sys)
+🔗 **[github.com/maneshvedpathak307-sys](https://github.com/maneshvedpathak307-sys)**
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
